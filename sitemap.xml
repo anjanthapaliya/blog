@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://anjanthapaliya.github.io/blog/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/post/hello/</loc>
+    <loc>https://anjanthapaliya.github.io/blog/post/hello/</loc>
     <lastmod>2018-03-23T11:17:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://anjanthapaliya.github.io/blog/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://anjanthapaliya.github.io/blog/</loc>
     <lastmod>2018-03-23T11:17:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://anjanthapaliya.github.io/blog/post/</loc>
     <lastmod>2018-03-23T11:17:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://anjanthapaliya.github.io/blog/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

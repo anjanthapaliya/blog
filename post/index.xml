@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My Musings</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://anjanthapaliya.github.io/blog/post/</link>
     <description>Recent content in Posts on My Musings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 23 Mar 2018 11:17:14 -0500</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://anjanthapaliya.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello world!</title>
-      <link>http://localhost:1313/post/hello/</link>
+      <link>https://anjanthapaliya.github.io/blog/post/hello/</link>
       <pubDate>Fri, 23 Mar 2018 11:17:14 -0500</pubDate>
       
-      <guid>http://localhost:1313/post/hello/</guid>
+      <guid>https://anjanthapaliya.github.io/blog/post/hello/</guid>
       <description>This is my first blog post!!</description>
     </item>
     
